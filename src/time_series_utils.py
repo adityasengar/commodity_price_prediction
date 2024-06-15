@@ -12,7 +12,7 @@ def adjust_for_inflation(series, inflation_rate_series):
     Returns:
         pd.Series: The inflation-adjusted price series.
     """
-    # This is a conceptual placeholder for complex inflation adjustment.
+    # This is a conceptual placeholder for more complex inflation adjustment logic. for complex inflation adjustment.
     # The original Mathematica notebook used a specific reverse calculation.
     # A full Python port would require careful replication of that logic.
     print("Adjusting for inflation (simplified placeholder)...")

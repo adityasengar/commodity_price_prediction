@@ -9,6 +9,7 @@ from src.models import train_arima_model, train_lstm_model
 
 def main():
     """Main function to run the commodity price prediction workflow."""
+    """Main function to run the commodity price prediction workflow."""
     parser = argparse.ArgumentParser(description="Commodity Price Prediction")
     parser.add_argument('--data_dir', type=str, default='.', help="Directory containing the CSV data files.")
     parser.add_argument('--target_commodity', type=str, default='gold', help="The commodity to predict (e.g., 'gold', 'silver').")

@@ -83,3 +83,5 @@ This will:
 -   `--arima_order`: ARIMA model order as three integers (p, d, q). (Default: `5 1 0`).
 -   `--mode`: `train` or `predict`. (Default: `train`).
 -   `--save_dir`: Directory to save/load models. (Default: `models`).
+
+# Updated on 2026-01-09
